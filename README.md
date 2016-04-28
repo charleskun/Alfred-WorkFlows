@@ -14,3 +14,6 @@ NOTICE:需要在服务端准备好遥操作的 shell.sh 文件。
 
 ### [Chrome](https://github.com/charleskun/Alfred2-WorkFlows/blob/master/Workflows/Chrome%20Bookmarks.alfredworkflow)
 ![workflows](./gf/chrome.gif)
+
+### [GoAgentX](https://github.com/charleskun/Alfred2-WorkFlows/blob/master/Workflows/GoAgentX.alfredworkflow)
+![workflows](./gf/gx.gif) 
