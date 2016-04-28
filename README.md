@@ -1,8 +1,16 @@
-# Alfred2-WorkFlows
-分享一个 利用 shell 写的 git pull workflow
-- 服务器端需要预先准备好 shell 代码
+#常用的 workflows  
 
-- 下载Alfred2-WorkFlows之后解压，双击安装，按需修改Script文件内的 shell 脚本。
-![image](https://cloud.githubusercontent.com/assets/6812342/14448356/958f8f0a-009a-11e6-9035-dab8a93ca864.png)
+### [Automatically git pull](https://github.com/charleskun/Alfred2-WorkFlows/blob/master/Workflows/Automatically%20git%20pull.alfredworkflow)
+![workflows](./git_pull.gif)
+
+NOTICE:需要在服务端准备好遥操作的 shell.sh 文件。
+
+### [Wunderlist](https://github.com/charleskun/Alfred2-WorkFlows/blob/master/Workflows/Wunderlist.alfredworkflow)
+![workflows](./wl.gif)
+
+### [Sublime/PhpStorm](https://github.com/charleskun/Alfred2-WorkFlows/blob/master/Workflows/Open%20with%20Sublime%20Text.alfredworkflow)
+![workflows](./sl.gif)
 
 
+### [Chrome](https://github.com/charleskun/Alfred2-WorkFlows/blob/master/Workflows/Chrome%20Bookmarks.alfredworkflow)
+![workflows](./chrome.gif)
